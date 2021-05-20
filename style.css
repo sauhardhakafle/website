@@ -240,6 +240,7 @@ body{
 
     }
     #ptxt{
+        margin:20px;
         padding:80px;
         text-align:bottom;
     }
