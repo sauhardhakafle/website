@@ -115,7 +115,7 @@ body{
 .main{
     margin:55px 50px 25px 50px;
     background-color:rgba(29, 28, 28, 0.972) ;
-    height:50vh;
+    height:100%;
     border-radius:20px 2px;
     filter:drop-shadow(3px 2px 3px rgb(46, 41, 41));
     float:none;
@@ -230,7 +230,6 @@ body{
     }
 
     .main{
-        height:50vh;
         margin:50px 100px 20px 100px;
     }
 
