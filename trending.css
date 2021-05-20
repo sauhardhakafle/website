@@ -35,6 +35,7 @@ body{
     width:100%;
 
 
+
     
 }
 
@@ -122,8 +123,7 @@ body{
     filter:drop-shadow(3px 2px 3px rgb(46, 41, 41));
     float:none;
     /* overflow:auto; */
-    
-   
+    text-align: center;
 
 }
 #htxt{
@@ -244,7 +244,8 @@ body{
 
     .main{
         height:90vh;
-        margin:50px 110px 20px 110px;
+        margin: 20px auto;
+        width: 650px;
     }
 
     /* .txt{
