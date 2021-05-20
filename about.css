@@ -117,7 +117,7 @@ body{
 .main{
     margin:55px 50px 25px 50px;
     background-color:rgba(29, 28, 28, 0.972) ;
-    height:70vh;
+    height:100%;
     border-radius:20px 2px;
     filter:drop-shadow(3px 2px 3px rgb(46, 41, 41));
     /* float:none; */
@@ -217,11 +217,11 @@ body{
     font-family:font;
       
      font-size:15px;
-      color:rgba(37, 37, 37, 0.972);
+      color:rgba(37, 37, 37, 0.850);
     margin:20px 90px;
     padding:9px 10px;
     text-align:center;
-     filter:drop-shadow(3px 2px 3px rgba(48, 45, 45, 0.904)); 
+     filter:drop-shadow(3px 2px 3px rgba(48, 45, 45, 0.450)); 
 
 }
 
@@ -362,16 +362,14 @@ body{
         padding:40px 15px 15px 15px;
         text-align:top;
     }
-/* 
+ 
     #photo{
-        display:block;
-        justify-content:center;
-        margin-left:50px;
-        padding-left:10px;
-        width:fit-content;
+        float:left;
+       margin-left:50px;
+   
         
        
-    } */
+    } 
 
 
     #image{
