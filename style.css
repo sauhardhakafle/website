@@ -230,6 +230,7 @@ body{
     }
 
     .main{
+        height:100%;
         margin:50px 100px 20px 100px;
     }
 
